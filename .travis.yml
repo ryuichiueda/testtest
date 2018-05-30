@@ -1,0 +1,2 @@
+script:
+  - python test_plus.py
